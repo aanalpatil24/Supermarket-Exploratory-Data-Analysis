@@ -1,4 +1,6 @@
+# -----------------------------
 # Step 1 - Data Exploration and Loading
+# -----------------------------
 
 # Import dependencies
 import pandas as pd
@@ -74,3 +76,4 @@ except Exception as e:
 # Upload to PostgreSQL
 df.to_sql(name='supermart', con=engine_psql, if_exists='replace', index=False)
 print("Data uploaded to PostgreSQL")
+
