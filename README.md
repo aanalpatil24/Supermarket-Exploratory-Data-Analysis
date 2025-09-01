@@ -1,4 +1,4 @@
-## Supermart Data Analysis Project
+## Supermart Exploratory Data Analysis Project
 
 [![SQL](https://img.shields.io/badge/SQL-Skills-blue)](https://www.sql.org/)  
 [![Python](https://img.shields.io/badge/Python-Skills-yellowgreen)](https://www.python.org/)  
