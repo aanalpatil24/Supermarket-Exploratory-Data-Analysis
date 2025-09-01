@@ -1,18 +1,17 @@
-# Walmart Data Analysis: End-to-End SQL + Python Project P-9
+# Supermart Data Analysis Project
 
 ## Project Overview
 
-![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
 
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
+This project is an end-to-end data analysis solution designed to extract critical business insights from a supermart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
 ---
 
 ## Project Steps
 
 ### 1. Set Up the Environment
-   - **Tools Used**: Visual Studio Code (VS Code), Python, SQL (MySQL and PostgreSQL)
+   - **Tools Used**: Visual Studio Code (VS Code), Python, SQL (MySQL and PostgreSQL), Anaconda Navigator
    - **Goal**: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 
 ### 2. Set Up Kaggle API
@@ -21,9 +20,9 @@ This project is an end-to-end data analysis solution designed to extract critica
       - Place the downloaded `kaggle.json` file in your local `.kaggle` folder.
       - Use the command `kaggle datasets download -d <dataset-path>` to pull datasets directly into your project.
 
-### 3. Download Walmart Sales Data
-   - **Data Source**: Use the Kaggle API to download the Walmart sales datasets from Kaggle.
-   - **Dataset Link**: [Walmart Sales Dataset](https://www.kaggle.com/najir0123/walmart-10k-sales-datasets)
+### 3. Download Supermart Sales Data
+   - **Data Source**: Use the Kaggle API to download the Supermart sales datasets from Kaggle.
+   - **Dataset Link**: [Supermart Sales Dataset](https://www.kaggle.com/datasets/analpatil/supermart-dataset)
    - **Storage**: Save the data in the `data/` folder for easy reference and access.
 
 ### 4. Install Required Libraries and Load Data
@@ -119,12 +118,6 @@ Possible extensions to this project:
 - Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
 - Additional data sources to enhance analysis depth.
 - Automation of the data pipeline for real-time data ingestion and analysis.
-
----
-
-## License
-
-This project is licensed under the MIT License. 
 
 ---
 
