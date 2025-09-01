@@ -40,7 +40,9 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 
 ## Project Structure
-
+<details>
+<summary>Click to expand Objectives</summary>
+   
 ```plaintext
 |-- data/                     # Raw data and transformed data
 |-- sql_queries/              # SQL scripts for analysis and queries
@@ -49,6 +51,7 @@ This project is an end-to-end data analysis solution designed to extract critica
 |-- requirements.txt          # List of required Python libraries
 |-- main.py                   # Main script for loading, cleaning, and processing data
 ```
+</details>
 
 ## Project Setup
 
@@ -127,17 +130,24 @@ Portfolio project showcasing SQL and Python skills essential for data analyst ro
 </details>
 
 ## Acknowledgments
-
+<details>
+<summary>Click to expand Author</summary>
+   
 - **Data Source**: Kaggle’s Walmart Sales Dataset
 - **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
-
+   
+</details>
 
 ## Future Enhancements
-
+<details>
+<summary>Click to expand Author</summary>
+   
 Possible extensions to this project:
 - Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
 - Additional data sources to enhance analysis depth.
 - Automation of the data pipeline for real-time data ingestion and analysis.
+- 
+</details>
 
 ---
 
